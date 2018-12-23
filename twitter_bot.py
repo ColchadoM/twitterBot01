@@ -1,5 +1,6 @@
 import requests as rq
 import tweepy
+import time
 
 ######KEYS SETUP############
 
