@@ -16,4 +16,4 @@ api = tweepy.API(auth)
 
 ############################
 
-api.update_status('Hello world, culo')
+api.update_status('Hello wo')
